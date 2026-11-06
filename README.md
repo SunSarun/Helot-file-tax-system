@@ -4,3 +4,9 @@ Project is about a CRM system, Tax filing agency that is use to contact, manage,
 1. Frontend: React.ts
 2. Backend: Python, Flask
 3. Database: Postgressql
+## Build
+1. Docker
+2. Server
+3. UI
+4. Database
+## Setup
