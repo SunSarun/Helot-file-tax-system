@@ -8,35 +8,45 @@ Project is about a CRM system, Tax filing agency that is use to contact, manage,
 1. Docker
 You need have docker and docker compose installed.
 **Build using docker compose**
-```docker compose build
+```
+docker compose build
 ```
 **Or build and run**
-```docker compose up --build
+```
+docker compose up --build
 ```
 2. Server
 You need python3 to create python env and install dependencies by follow the command below.
 **move to core-system directory**
-```cd core-system```
+```
+cd core-system
+```
 **Mac/Linux**
-```python3 -m venv .venv
+```
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 Then install dependencies using the command below.
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 To run the server use the command below.
-```python app.py
+```
+python app.py
 ```
 Or
-``` flask run --debug
+``` 
+flask run --debug
 ```
 3. UI
 You need npm and install denpendencies to build UI by follow command below.
 **Install dependencies**
-```npm install
+```
+npm install
 ```
 **Build**
-```npm run build
+```
+npm run build
 ```
 4. Database
 ## Setup
