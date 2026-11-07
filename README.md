@@ -5,8 +5,8 @@ Project is about a CRM system, Tax filing agency that is use to contact, manage,
 2. Backend: Python, Flask
 3. Database: Postgressql
 ## Build
-1. Docker
-You need have docker and docker compose installed.
+#### 1. Docker
+You need have docker and docker compose installed.</br>
 **Build using docker compose**
 ```
 docker compose build
@@ -15,7 +15,7 @@ docker compose build
 ```
 docker compose up --build
 ```
-2. Server
+#### 2. Server
 You need python3 to create python env and install dependencies by follow the command below.
 **move to core-system directory**
 ```
@@ -38,7 +38,7 @@ Or
 ``` 
 flask run --debug
 ```
-3. UI
+#### 3. UI
 You need npm and install denpendencies to build UI by follow command below.
 **Install dependencies**
 ```
@@ -48,5 +48,5 @@ npm install
 ```
 npm run build
 ```
-4. Database
+#### 4. Database
 ## Setup
