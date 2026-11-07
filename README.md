@@ -1,12 +1,13 @@
 # Helot-tax-filing-syste
-Project is about a CRM system, Tax filing agency that is use to contact, manage, delivery consultant service ,information  to customer to help with filing tax to the government as a service. 
+Project is about a CRM system, Tax filing agency that is use to contact, manage, delivery consultant service ,information  to customer to help with filing tax to the government as a service.\
+[Track-Project](https://warp-mat-baa.notion.site/Dashboard-40c6e77623a1804d84f7c9c42428a860?source=copy_link)
 ## Tech-Stack
 1. Frontend: [React.ts](https://react.dev/)
 2. Backend: [Python](https://www.python.org/downloads/), [Flask](https://flask.palletsprojects.com/en/stable/)
 3. Database: [PostgreSQL](https://flask.palletsprojects.com/en/stable/)
 ## Build
 #### 1. Docker
-You need have docker and docker compose installed.</br>
+You need have docker and docker compose installed.\
 **Build using docker compose**
 ```
 docker compose build
